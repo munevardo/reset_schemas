@@ -1,0 +1,21 @@
+
+//these code was implemented in all the domain to https://resetmarketingdigital.com/big-data-inteligencia-artificial
+//big data o inteligencia artificial
+
+
+<script type="application/ld+json">
+{ "@context" : "https://schema.org",
+  "@type" : "Organization",
+  "name" : "Reset Marketing digital",
+  "url" : "https://resetmarketingdigital.com/",
+  "description": "En Reset encuentra contenido de valor para estar actualizado en temas digitales y transformación digital en la industria financiera.🥇 ¡Ingresa Ya! ",
+  "image": "https://resetmarketingdigital.com/big-data-o-inteligencia-artificial",
+  "email": "resetmercadeodigital@bancolombia.com.co",
+  "logo": "https://resetmarketingdigital.com/wp-content/uploads/2021/09/Reset.svg", 
+    "sameAs":[
+      "https://es-la.facebook.com/Bancolombia/",
+      "https://www.instagram.com/bancolombia/?hl=es",
+      "https://www.linkedin.com/company/bancolombia/"
+    ]
+  }
+</script>

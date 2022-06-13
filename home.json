@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://resetmarketingdigital.com/diseno-experiencias-usuario"
+  },
+  "headline": "",
+  "image": [
+    "https://resetmarketingdigital.com/wp-content/uploads/2019/06/shutterstock_751168159-2-1024x576.jpeg",
+    "https://resetmarketingdigital.com/wp-content/uploads/2019/10/shutterstock_375189727-1-1024x576.jpg",
+    "https://resetmarketingdigital.com/wp-content/uploads/2019/12/shutterstock_681211267-1-1024x576.jpeg"
+  ],
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Estrategia Digital",
+    "item": "https://resetmarketingdigital.com/categoria/estrategia-digital"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Diseño de experiencia",
+    "item": "https://resetmarketingdigital.com/diseno-experiencias-usuario"  
+  }]
+}
+
